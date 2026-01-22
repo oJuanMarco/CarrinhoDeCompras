@@ -1,9 +1,3 @@
-//Declarar oque mudar
-    //Produtos no carrinho
-    //Botão adicionar
-    //Botão limpar
-//Declarar como mudar
-
 function adicionar(){
     if(quantidade()===null){
         return;
